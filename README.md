@@ -1,8 +1,8 @@
-# PRIDEKID ML OpenCV Project
+# Adam ML OpenCV Project
 
 ## Overview
 
-This repository contains the OpenCV-based machine learning models and scripts used in the PRIDEKID project. These models are designed for tasks such as object detection and face emotion recognition, which are integral for enhancing user experience and interactions.
+This repository contains the OpenCV-based machine learning models and scripts used in the Adam project. These models are designed for tasks such as object detection and face emotion recognition, which are integral for enhancing user experience and interactions.
 
 ## Repository Structure
 
@@ -21,19 +21,6 @@ Ensure you have Python 3.6+ and the necessary libraries installed:
 ```sh
 pip install -r requirements.txt
 ```
-
-### Running the Project
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/SharanArvind/PRIDEKID-ML_opencv.git
-   cd PRIDEKID-ML_opencv
-   ```
-
-2. Run the main application:
-   ```sh
-   python main.py
-   ```
 
 ## Usage
 
